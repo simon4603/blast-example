@@ -20,7 +20,8 @@
  *   You should have received a copy of the GNU General Public License
  *   along with Nextflow.  If not, see <http://www.gnu.org/licenses/>.
  */
- 
+ /*sss
+ */
 
 /*
  * Defines the pipeline inputs parameters (giving a default value for each for them) 
